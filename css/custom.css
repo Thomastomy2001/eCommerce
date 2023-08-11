@@ -1,0 +1,44 @@
+
+.heading_container h2 span {
+  color: #f89cab;
+}
+
+.heading_container.heading_center {
+  text-align: center;
+}
+
+#navbarSupportedContent {
+  width: 100%;
+  background-color: #f9ece6;
+    justify-content: center;
+  padding: 10px 0;
+  border-radius: 15px 15px 0 0;
+}
+
+
+#navbarSupportedContent .navbar-nav .nav-link {
+  padding: 5px 25px;
+  color: #514f4f;
+  text-align: center;
+  text-transform: uppercase;
+  border-radius: 5px;
+}
+
+table {
+    width: 75%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+/* Additional Bootstrap classes */
+.media img {
+    max-width: 100px;
+}
